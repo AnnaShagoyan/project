@@ -1,0 +1,190 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+.header {
+  background: url(images/rectangle.jpg) no-repeat center/cover;
+  height: 720px;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.logo {
+	color: white;
+}
+
+.navlink {
+	color: white;
+ 	margin-right: 15px;
+}
+
+.icons {
+ 	margin-right: 10px;
+}
+
+.header__inner {
+	font-weight: 500;
+ 	display:flex;
+ 	align-items:center;
+ 	justify-content: space-between;
+ 	margin-bottom: 200px;
+}
+
+.right {
+ 	display:flex;
+ 	align-items:center;
+ 	justify-content: space-between;
+}
+
+.intro {
+	color: white;
+	width: 500px;
+	height: 300px;
+}
+
+.button {
+ 	background-color: red;
+	font-size: 14px;
+	color: white;
+	border: 1px solid red;
+	position: absolute;
+}
+
+.icon-play {
+	width: 15px;
+	height: 15px;
+}
+
+.content {
+	background-color: #E5E5E5;
+}
+
+.content__inner {
+	padding: 50px 70px 50px 70px;
+	background-color: white;
+	margin: -30px 30px;
+	border: 2px solid #D2D2D2;
+	border-radius: 6px;
+	font-size: 18px;
+	color: #999999;
+}
+
+h1 {
+	text-align: center;
+	font-weight: 500;
+}
+
+h5 {
+	font-weight: 400;
+}
+
+.content__description {
+	text-align: center;
+	margin: 0 auto 100px auto;
+	max-width: 720px;
+}
+
+.content-box {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 100px;
+}
+ 
+.features {
+	margin: 0 10px 0 10px;
+	text-align: center;
+} 
+
+.icon {
+	width: 70px;
+	height: 70px;
+}
+
+.team-info {
+	display: flex;
+	justify-content: space-around;
+}
+
+.team-member {
+	margin: 50px 10px 0 10px;
+	text-align: center;
+}
+
+.team {
+	text-align: center;
+	margin: 0 50px 50px 50px;
+}
+
+.contacts {
+	text-align: center;
+	margin: 150px 50px 50px 50px;
+}
+
+.contacts-text { 
+	text-align: center;
+	margin:50px;
+}
+
+.form__inputs {
+	display: flex;
+	justify-content: center;
+}
+
+.input {
+	width: 300px;
+	border: none; 
+	border-bottom: 1px solid #D2D2D2;
+	padding: 20px;
+	margin-right: 20px;
+}
+
+.message {
+	width: 680px;
+	border: none;
+	border-bottom: 1px solid #D2D2D2;
+	padding: 20px; 
+	padding-bottom: 50px;
+}
+	
+.form__message {
+	text-align: center;
+}
+
+.form__button {
+	display: flex;
+	justify-content: center;
+	padding-top: 30px;
+}
+
+.submit-button {
+	background-color: #9C27B0;
+	color: #FFFFFF;
+	width: 150px;
+	height: 50px;
+	border-radius: 3px;	
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 100px;
+}
+
+.footer__left {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 360px;
+	text-transform: uppercase;
+}
+
+.footer__right {
+	justify-content: flex-end;
+	width: 360px;
+}
+
+

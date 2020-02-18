@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"type",
+				"type"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"d",
+				"document"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/37128/Desktop/project.html",
+		"/C/Users/37128/Desktop/movie.html",
+		"/C/Users/37128/Desktop/month.html",
+		"/C/Users/37128/Desktop/newclock.html",
+		"/C/Users/37128/Desktop/simplecalc.html",
+		"/C/Users/37128/Desktop/basiccalc.html",
+		"/C/Users/37128/Desktop/calc-new.html",
+		"/C/Users/37128/Desktop/seim.html",
+		"/C/Users/37128/Desktop/show.html",
+		"/C/Users/37128/Desktop/training.html",
+		"/C/Users/37128/Desktop/index.html",
+		"/C/Users/37128/Desktop/lw_grades.xml",
+		"/C/Users/37128/Desktop/testtoday.html",
+		"/C/Users/37128/Desktop/youtube.html",
+		"/C/Users/37128/Desktop/youtube.js",
+		"/C/Users/37128/Desktop/basiccalc.css",
+		"/C/Users/37128/Desktop/calc031219.html",
+		"/C/Users/37128/Desktop/dynclock.html",
+		"/C/Users/37128/Desktop/clock.html",
+		"/C/Users/37128/Desktop/calc-task.html",
+		"/C/Users/37128/Desktop/app.css",
+		"/C/Users/37128/Desktop/gallery.html",
+		"/C/Users/37128/Desktop/gallery.css",
+		"/C/Users/37128/Desktop/navbar.html",
+		"/C/Users/37128/Desktop/blog.html",
+		"/C/Users/37128/Desktop/blog.css",
+		"/C/Users/37128/Desktop/basics.html",
+		"/C/Users/37128/Desktop/bootstrap.css.map",
+		"/C/Users/37128/Desktop/photogrid.html",
+		"/C/Users/37128/Desktop/photos.css",
+		"/C/Users/37128/Desktop/game.html",
+		"/C/Users/37128/Desktop/game.css",
+		"/C/Users/37128/Desktop/board.html",
+		"/C/Users/37128/Desktop/board.css",
+		"/C/Users/37128/Desktop/selectors.html",
+		"/C/Users/37128/Desktop/selectors.css",
+		"/C/Users/37128/Desktop/todos.css",
+		"/C/Users/37128/Desktop/todolist.html",
+		"/C/Users/37128/Desktop/forms.html",
+		"/C/Users/37128/Desktop/Register.html",
+		"/C/Users/37128/Desktop/Register 2.html",
+		"/C/Users/37128/Desktop/Pokemon.html",
+		"/C/Users/37128/Desktop/Rusty Steele.html",
+		"/C/Users/37128/Desktop/firstPage.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
